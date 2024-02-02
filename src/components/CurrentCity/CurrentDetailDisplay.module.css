@@ -1,0 +1,11 @@
+.currentDashBoard_display {
+  width: 85%;
+  background-color: white;
+  height: 55px;
+  display: flex;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  align-items: center;
+  justify-content: space-around;
+  color: black;
+}

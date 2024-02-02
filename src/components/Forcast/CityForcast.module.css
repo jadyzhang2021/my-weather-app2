@@ -1,0 +1,20 @@
+.cityforcast {
+  margin: 25px 10px;
+  line-height: 1.3rem;
+  text-align: center;
+}
+.cityforcast_icon {
+  width: 100px;
+  height: 100px;
+  margin: 15px 0;
+}
+.tempRange {
+  position: relative;
+}
+.tempRange_degree {
+  position: relative;
+  top: -0.5rem;
+}
+.cityforcast_day {
+  font-weight: bold;
+}

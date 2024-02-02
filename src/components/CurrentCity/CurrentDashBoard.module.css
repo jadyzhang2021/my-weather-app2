@@ -1,0 +1,20 @@
+.currentDashBoard {
+  background-image: url(../../Assets//weatherBG.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 35%;
+  border-radius: 14px;
+  margin: 15px;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 13px 0;
+}
+@media screen and (max-width: 700px) {
+  .currentDashBoard {
+    width: 80%;
+  }
+}

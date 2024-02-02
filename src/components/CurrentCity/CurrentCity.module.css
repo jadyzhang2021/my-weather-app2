@@ -1,0 +1,33 @@
+.container {
+  line-height: 30px;
+}
+.current_city {
+  font-size: 2rem;
+}
+.current_temp {
+  position: relative;
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.current_tempRange {
+  position: relative;
+  font-size: 1rem;
+}
+.current_icon {
+  max-width: 180px;
+  height: 150px;
+  width: 100%;
+}
+
+.current_temp_c {
+  position: absolute;
+  top: -1.9rem;
+  font-size: 3rem;
+  right: 1.5rem;
+}
+.current_tempRange_c {
+  position: absolute;
+  top: -0.5rem;
+}

@@ -1,0 +1,21 @@
+.searchHistory {
+  max-width: 100px;
+  width: 100%;
+  height: 80px;
+  font-size: 1.2rem;
+  text-align: center;
+  line-height: 1.5rem;
+  border-radius: 15px;
+}
+.tempRange {
+  font-size: 0.8rem;
+}
+.icon {
+  max-width: 32px;
+  width: 100%;
+}
+@media screen and (max-width: 450px) {
+  .searchHistory {
+    margin: 10px 0px;
+  }
+}

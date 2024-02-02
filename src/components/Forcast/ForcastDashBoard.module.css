@@ -1,0 +1,12 @@
+.forcastDetail {
+  list-style: none;
+  display: flex;
+}
+@media screen and (max-width: 450px) {
+  .forcastDetail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
